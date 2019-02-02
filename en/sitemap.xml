@@ -183,6 +183,21 @@
   </url>
   
   <url>
+    <loc>/en/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+  </url>
+  
+  <url>
     <loc>/en/shortcodes/attachments/</loc>
     <xhtml:link
                 rel="alternate"
@@ -264,21 +279,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/shortcodes/expand/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/</loc>
-    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
                 />
   </url>
   
